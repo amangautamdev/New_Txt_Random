@@ -8,8 +8,11 @@ class Config(object):
     # get a token from @BotFather
     pass
     """
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7048725293:AAFPbp5S963ko_DyQQIhFjzYEbVuJjZgppo")
-    API_ID = int(os.environ["API_ID", 24643568]
-    API_HASH = os.environ["API_HASH", "5c3ea512a2730bfab77e3d75f6272e7b"]
-    AUTH_USERS = "7175040177"""
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7295982155:AAEPBhvrhe3lqRPDlE1733nB7bBX2bzOfFA")
+    #Your API ID from my.telegram.org
+    API_ID = 25919301
+#Your API Hash from my.telegram.org
+    API_HASH = os.environ.get("API_HASH", "1b4a6417a21802b7b3f4c152fda659b1")
+
+    AUTH_USERS = 5631563685
 
